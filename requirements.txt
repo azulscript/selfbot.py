@@ -9,4 +9,5 @@ emoji
 wikipedia
 cr-py
 urban-async
+crasync
 safygiphy

@@ -7,7 +7,7 @@ sympy
 psutil
 emoji
 wikipedia
-crasync
+git+https://github.com/bagrat/crasync
 cr-py
 urban-async
 safygiphy

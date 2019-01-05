@@ -177,6 +177,9 @@ class Selfbot(commands.Bot):
         '''Responds only to yourself'''
         if message.author.id != self.user.id:
             return
+        if message.author.id = 164461516832112640:
+            print('bot talked')
+            return
         self.messages_sent += 1
         self.last_message = time.time()
         await self.process_commands(message)
